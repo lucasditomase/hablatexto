@@ -1,6 +1,6 @@
 # Política de Privacidad
 
-**Última actualización:** [Fecha]
+**Última actualización:** 16 de diciembre de 2024
 
 **HablaTexto** valora tu privacidad y se compromete a proteger tu información personal. Aquí te explico de manera clara y sencilla cómo manejo tus datos cuando usas la app.
 
@@ -20,4 +20,4 @@ Como no almaceno ningún dato personal, no hay riesgo de exposición de tu infor
 Si en el futuro decido hacer algún cambio en esta política, te lo informaré mediante una actualización de la misma.
 
 ## 6. Contacto  
-Si tienes preguntas o dudas, puedes contactarme directamente en [correo de contacto].
+Si tienes preguntas o dudas, puedes [contactarme](mailto:analogia.ascendente0j@icloud.com).
