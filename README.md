@@ -1,4 +1,4 @@
-# Política de Privacidad de HablaTexto
+# Política de Privacidad
 
 **Última actualización:** [Fecha]
 
